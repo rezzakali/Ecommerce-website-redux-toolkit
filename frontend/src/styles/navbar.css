@@ -1,0 +1,20 @@
+ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+ul li {
+  margin: 0 10px;
+}
+ul li a {
+  text-decoration: none;
+}
+.quantity {
+  width: 25px;
+  height: 25px;
+  border: none;
+  padding: 5px;
+  color: blueviolet;
+}
